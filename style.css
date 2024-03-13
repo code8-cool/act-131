@@ -1,0 +1,56 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: darkblue;
+    color: darkorchid;
+  }
+  .heading_div
+  {
+    float: none;
+    background:  aquamarine; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: darkred;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    background-color: aqua;
+    box-shadow:9px 9px 9px grey;
+    font-size: 20px;
+    white-space: pre-line;
+   height: 68px;
+   width: 120px;
+    }
+
+  .copy_right_footer  {
+    position: fixed;
+    font-size: 20px;
+    color: darkgoldenrod;
+    bottom: 0;
+    width: 100%;
+    background-color:khaki;
+  }
+ 
+  .heading :hover {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: darkblue;
+    color:antiquewhite;
+  }
+
+  canvas{
+    border:5px solid darkkhaki ;
+    border-radius:20px;
+    box-shadow:5px 5px 5px greenyellow;
+    margin-top: 160px;
+  }
